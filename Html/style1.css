@@ -1,0 +1,15 @@
+.h{
+    color: red;
+    background-color: yellow;
+    border: 2px solid black;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 2px 2px 8px blue;
+    letter-spacing: 5px;
+    word-spacing: 8px;
+}
+body{
+    background-color: black;
+}
